@@ -1,0 +1,26 @@
+{
+  "name": "Teleconsulto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.9.0",
+    "@fullcalendar/core": "^4.4.0",
+    "@fullcalendar/daygrid": "^4.4.0",
+    "amazon-chime-sdk-js": "^1.2.1",
+    "aws-sdk": "^2.650.0",
+    "bootstrap": "4.3.1",
+    "datatables.net-bs4": "1.10.19",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jquery": "3.4.1",
+    "jquery.easing": "^1.4.1"
+  }
+}
